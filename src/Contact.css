@@ -1,0 +1,27 @@
+.Contact {
+  text-align: center;
+  height: 100vmin;
+  display: grid;
+  place-content: center;
+  background: lightgrey;
+}
+
+.Contact h1 {
+  margin: 1em 0;
+}
+
+.contactInfo {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background: white;
+  padding: 1.5em 2em;
+  border-radius: 0.2rem;
+}
+
+.loginForm input {
+  padding: 0.5em 1em;
+  border: 0;
+  border-radius: 0.2rem;
+  margin-inline: 0.2rem;
+}
